@@ -1,6 +1,6 @@
-RD INFRO TECHNOLOGY 
 
-## My_python_project
+
+## My_python_project IN RD INFRO TECHNOLOGY 
 
 A simple Python project set up in **VS Code** with virtual environment support
 
