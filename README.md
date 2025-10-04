@@ -3,6 +3,7 @@
 A simple Python project set up in **VS Code** with virtual environment support
 
 ## 📂 Project Structure
+
 my-python-project/
 │
 ├── src/                     # Source code folder
