@@ -26,7 +26,7 @@ Follow these steps to run this project on your local system:
    python -m venv .venv
    
 3. **Activate the virtual environment**
-     .venv\Scripts\activate
+    -- .venv\Scripts\activate
    
 4. **Install dependencies**
    pip install -r requirements.txt
